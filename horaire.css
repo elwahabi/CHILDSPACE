@@ -22,6 +22,7 @@ h1{
     margin-left: 42%;
     margin-right: 42%;
     text-align: center;
+
 }
 button{
     background-color: rgba(159, 139, 175, 0.60);
@@ -33,13 +34,20 @@ button{
     font-family: 'Ribeye Marrow';
     font-size: 22px;
     margin-left: 2%;
+    text-decoration: none;  
 }
 p{
     color: #fff;
-    
     padding-top: 3%;
     font-size: 200%;
     text-align: center;
+    line-height: 70PX;
+    
+}
+
+a{
+    text-decoration: none;
+    color: #fff;
 }
 @media  (max-width:1126px){
 
@@ -48,5 +56,22 @@ p{
         background-repeat: no-repeat;
         background-size: 340%;
     }
+    h1{
+        font-size: 22px;
+    margin-left: 29%;
+    margin-right: 27%;
+    margin-top: 26%;
+
+    }
+    p{
+        padding: 14%;
+    font-size: 131%;
+    }
+    button{
+        padding: 3PX 22PX 3PX 22PX;
+        margin-left: 6%;
+        margin-top: 10%;
+    }
+  
 }
 
