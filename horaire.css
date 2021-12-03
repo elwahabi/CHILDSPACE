@@ -41,3 +41,12 @@ p{
     font-size: 200%;
     text-align: center;
 }
+@media  (max-width:1126px){
+
+    body {
+        background-image: url(../cocos/img/horaireimage.png);
+        background-repeat: no-repeat;
+        background-size: 340%;
+    }
+}
+

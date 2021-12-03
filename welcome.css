@@ -78,3 +78,31 @@ a{
     color: #fff;
 text-decoration: none;
 }
+@media  (max-width:1126px){
+
+    h1{
+        font-size: 32px;
+    }
+    h2{
+        font-size: 21px;
+
+    }
+    button {
+
+        font-size: 21px;
+    }
+    main {
+        margin-top: 86px;
+        background-color: #144660;
+        padding-top: 81px;
+        padding-bottom: 125px;
+    }
+    nav{
+        margin-top: 10%;
+    }
+    .social{
+        margin-top: -94px;
+        font-size: 29px;
+
+    }
+}
