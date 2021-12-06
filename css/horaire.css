@@ -3,7 +3,7 @@
     padding: 0;
 }
 body{
-   background-image: url("../cocos/img/horaireimage.png");
+   background-image: url("../img/horaireimage.png");
     background-repeat: no-repeat;
     background-size: 100%;
 }
@@ -52,8 +52,7 @@ a{
 @media  (max-width:1126px){
 
     body {
-        background-image: url(../cocos/img/horaireimage.png);
-        background-repeat: no-repeat;
+
         background-size: 340%;
     }
     h1{
